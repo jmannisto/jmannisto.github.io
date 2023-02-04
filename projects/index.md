@@ -6,7 +6,7 @@ nav_order: 3
 ---
 Check out some of the projects I've completed and summarized here. More details about each project can be found by clicking the project link or by choosing it from the drop down column on the left.
 
-## [Finnish to English Neural Machine Translation Models]([/projects/nmt.md](https://jmannisto.github.io/projects/nmt.html))
+## [Finnish to English Neural Machine Translation Models](https://jmannisto.github.io/projects/nmt.html)
 See project details here
 - Collected and preprocessed corpora data for models using OpusFilter
 - Trained and evaluated 3 Finnish to English NMT Transformer models using OpenNMT‑py (Base Transformer, Multilingual, and Fine-tuned Models)
