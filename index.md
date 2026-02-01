@@ -3,18 +3,21 @@ title: Home
 layout: home
 nav_order: 1
 ---
+# Johanna Männistö
+Data Scientist | RAG Systems | LLM Fine-tuning
 
-Johanna Männistö (she/her) is a Masters student studying Language Technology and Data Science at the University of Helsinki. Johanna received her B.A. in Linguistics in 2018 from the University of Washington, Seattle.
+I specialize in building and optimizing production language model systems, with particular focus on:
+
+- **Retrieval-Augmented Generation (RAG)**: Deliver performance improvements across 5 customer deployments through custom embedding models, rerankers, and systematic optimization
+- **LLM Fine-tuning**: Train using various techniques (LoRA, QLoRA, full fine-tuning)
+- **Agentic AI**: Developed autonomous systems using DSPy and custom MCP tooling for research and information synthesis
+
+**Education**
+- MSc Language Technology & Data Science, University of Helsinki, 2024
+- BA Linguistics, University of Washington - Seattle
 
 -----
-[CV](../docs/JohannaMannistoResume.pdf)
-
-[LinkedIn](https://www.linkedin.com/in/jmannisto)
-
-[GitHub](https://github.com/jmannisto)
-
-Email:[johanna.mannisto@helsinki.fi](mailto:johanna.mannisto@helsinki.fi)
-
+[LinkedIn](https://www.linkedin.com/in/jmannisto) • [GitHub](https://github.com/jmannisto) • [CV](../docs/Resume_JohannaMannisto.pdf) • [Email](johanna_mannisto@hotmail.com)
 
 
 ----
