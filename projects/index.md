@@ -6,11 +6,15 @@ nav_order: 3
 ---
 Check out some of the projects I've completed and summarized here. More details about each project can be found by clicking the project link or by choosing it from the drop down column on the left.
 
+## [Various Kaggle Datasets and Competitions](https://jmannisto.github.io/projects/kagglecomps.html)
+Check out the repository [here](https://github.com/jmannisto/kaggle-ml-experiments/tree/main). 
+The overarching goal of these projects described below are to brush up on traditional ML/DL techniques leveraging data that is more easily available. In addition to that I aim to practice and develop deeper skills with MLOps. Completed/in-progress projects are listed below:
+- Heart Disease Classification 
+
 ## [Finnish to English Neural Machine Translation Models](https://jmannisto.github.io/projects/nmt.html)
-See project details here
+See project details [here](../docs/NMT_Course_Final_Project.pdf)
 - Collected and preprocessed corpora data for models using OpusFilter
 - Trained and evaluated 3 Finnish to English NMT Transformer models using OpenNMT‑py (Base Transformer, Multilingual, and Fine-tuned Models)
-
 
 ## [Predicting Weather Events with Machine Learning Models](https://jmannisto.github.io/projects/ml.html)
 See the project report [here](../docs/Machine_Learning_Project_Group93.pdf)
@@ -19,7 +23,7 @@ See the project report [here](../docs/Machine_Learning_Project_Group93.pdf)
 - Trained and evaluated multiple classifiers for the binary and multi-class task, accommodating an imbalanced set for the multi-class task
 
 ## [Neural Morphological Analyzer for Inuktitut](https://jmannisto.github.io/projects/compmorph.html)
-See project details here
+See project details [here](../docs/Neural_Morphological_Analyzer_for_Inuktitut.pdf)
 - Used Inuktitut data and OpenNMT-py to create, machine translation inspired, Neural Morphological Analyzers and Generators for Inuktitut
 
 ## Text Classification with ArXiv
