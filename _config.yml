@@ -1,5 +1,7 @@
 title: Johanna Männistö
 description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
+#theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.12.0
 url: https://jmannisto.github.io
+plugins:
+  - jekyll-remote-theme
